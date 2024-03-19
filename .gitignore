@@ -1,2 +1,4 @@
 # ignore all .txt files
 *.txt
+# igonre vendor folder
+/vendor/
