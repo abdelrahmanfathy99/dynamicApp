@@ -1,0 +1,16 @@
+{
+    "name": "star/dynamic-app",
+    "authors": [
+        {
+            "name": "Abdelrahman Fathy",
+            "email": "abdelrahmanfathy11@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
